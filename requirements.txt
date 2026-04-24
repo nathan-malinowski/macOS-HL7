@@ -1,0 +1,3 @@
+PySide6>=6.6
+hl7apy>=1.3.5
+PyYAML>=6.0
